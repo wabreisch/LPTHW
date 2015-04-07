@@ -1,2 +1,2 @@
 ## LPTHW
-Me working through all of the LPTHW exercises!
+Me working through all of the LPTHW exercises.
