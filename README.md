@@ -1,2 +1,2 @@
-# LPTHW
-Learn Python the Hard Way
+## LPTHW
+Me working through all of the LPTHW exercises!
